@@ -1,8 +1,8 @@
 # Unity 3D Mathematical Surfaces – Learning Project & Tutorial
 
 <p align="center">
-  <img src="images/3d-multi-wave.gif" width="300" alt="3D Multi-Wave Function"/>
-  <img src="images/3d-torus.gif" width="300" alt="3D Torus Shape"/>
+  <img src="images/3d-multi-wave.gif" height="300" alt="3D Multi-Wave Function"/>
+  <img src="images/3d-torus.gif" height="300" alt="3D Torus Shape"/>
 </p>
 
 This is a learning project based on Jasper Flick’s [Catlike Coding Unity tutorials](https://catlikecoding.com/unity/tutorials/).
