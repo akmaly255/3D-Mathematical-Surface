@@ -1,5 +1,9 @@
 # Unity 3D Mathematical Surfaces – Learning Project & Tutorial
 
+![3d_multi_wave_function](images/3d-multi-wave.gif)
+
+![3d_torus-shape](images/3d-torus.gif)
+
 This is a learning project based on Jasper Flick’s [Catlike Coding Unity tutorials](https://catlikecoding.com/unity/tutorials/).
 This project is a part of my Unity learning journey, focused on understanding **basic GameObject manipulation** and **C# scripting**.  
 It implements a **3D Mathematical Surfaces** in Unity that shows how Function Wave behave on 2D grid and Visualize 3D shapes with Mathematical Functions.
